@@ -48,4 +48,4 @@
 	branch = master
 [submodule "platforms/qurt/dspal"]
 	path = platforms/qurt/dspal
-	url = https://gitee.combingobinlw/ATLFlight/dspal.git
+	url = https://gitee.com/bingobinlw/ATLFlight/dspal.git
